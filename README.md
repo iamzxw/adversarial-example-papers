@@ -27,12 +27,12 @@ Must-read papers on Adversarial example
 | []() |  |  |
 | []() |  |  |
 
-### adversarial patch
+### Adversarial patch
 | paper | remarks |    link    |
 | ----- | ------- | ------ |
-| [Adversarial Patch](https://arxiv.org/abs/1712.09665) | 2017 |  |
-| [LaVAN: Localized and Visible Adversarial Noise](https://arxiv.org/abs/1801.02608) | 2018 |  |
 | [Perceptual ensitive GAN for Generating Adversarial Patches](http://sites.nlsde.buaa.edu.cn/~xlliu/aaai19.pdf)| AAAI 2019 |  |
+| [LaVAN: Localized and Visible Adversarial Noise](https://arxiv.org/abs/1801.02608) | 2018 |  |
+| [Adversarial Patch](https://arxiv.org/abs/1712.09665) | 2017 |  |
 | []() |  |  |
 | []() |  |  |
 
@@ -42,7 +42,7 @@ Must-read papers on Adversarial example
 | [Improving the Generalization of Adversarial Training with Domain Adaptation](https://openreview.net/pdf?id=SyfIfnC5Ym) | ICLR 2019 |  |
 | [A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373)| arxiv 2018 |  |
-| [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Defense_Against_Adversarial_CVPR_2018_paper.pdf) | CVPR 2018 |  |
+| [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Defense_Against_Adversarial_CVPR_2018_paper.pdf)| CVPR 2018 |  |
 | [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://openreview.net/forum?id=BkJ3ibb0-) | ICLR 2018 |  |
 | [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ) | ICLR 2018 |  |
 | [Feature Denoising for Improving Adversarial Robustness](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Feature_Denoising_for_Improving_Adversarial_Robustness_CVPR_2019_paper.pdf) | CVPR 2019 |  |
