@@ -5,10 +5,14 @@ Must-read papers on Adversarial example
 ### Based-gradient Attack
 | paper | remarks |    link    |
 | ----- | ------- | ------ |
-| [Transferable Adversarial Perturbations](http://openaccess.thecvf.com/content_ECCV_2018/html/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.html) | ECCV 2018 |  |
 | [The Limitations of Adversarial Training and the Blind-Spot Attack](https://openreview.net/forum?id=HylTBhA5tQ)| ICLR 2019 |  |
 | [Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks](https://arxiv.org/abs/1904.02884)| CVPR 2019 Oral |  |
+| [Improving Transferability of Adversarial Examples with Input Diversity](https://arxiv.org/pdf/1803.06978.pdf) | CVPR 2019 |  |
+| [Boosting Adversarial Attacks with Momentum](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf) | CVPR 2018 |  |
+| [Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses](https://arxiv.org/pdf/1904.00979.pdf) | arxiv 2019 |  |
+| [Learning Transferable Adversarial Examples via Ghost Networks](https://arxiv.org/pdf/1812.03413.pdf) | arxiv 2019 |  |
 | [On the Effectiveness of Low Frequency Perturbations](https://arxiv.org/abs/1903.00073) | arxiv 2019 |  |
+| [Transferable Adversarial Perturbations](http://openaccess.thecvf.com/content_ECCV_2018/html/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.html) | ECCV 2018 |  |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
@@ -21,10 +25,6 @@ Must-read papers on Adversarial example
 | [Generating Adversarial Examples with Adversarial Networks](https://www.ijcai.org/proceedings/2018/0543.pdf) | IJCAI 2018 |  |
 | [Generative Adversarial Perturbations](http://openaccess.thecvf.com/content_cvpr_2018/html/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.html) | CVPR 2018 |  |
 | [Adversarial Transformation Networks:Learning to Generate Adversarial Examples](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16529)| AAAI 2019 |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
 | []() |  |  |
 
 ### Adversarial patch
