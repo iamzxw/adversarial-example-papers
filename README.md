@@ -7,6 +7,7 @@ Must-read papers on Adversarial example
 | ----- | ------- | ------ |
 | [Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks](https://arxiv.org/abs/1904.02884)| CVPR 2019 Oral |  |
 | [Improving Transferability of Adversarial Examples with Input Diversity](https://arxiv.org/pdf/1803.06978.pdf) | CVPR 2019 |  |
+| [Structured Adversarial Attack: Towards General Implementation and Better Interpretability](https://openreview.net/forum?id=BkgzniCqY7) | ICLP 2019 |  |
 | [Curls & Whey: Boosting Black-Box Adversarial Attacks ](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Curls__Whey_Boosting_Black-Box_Adversarial_Attacks_CVPR_2019_paper.pdf) | CVPR 2019 |  |
 | [Boosting Adversarial Attacks with Momentum](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf) | CVPR 2018 |  |
 | [Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses](https://arxiv.org/pdf/1904.00979.pdf) | arxiv 2019 |  |
@@ -14,7 +15,6 @@ Must-read papers on Adversarial example
 | [On the Effectiveness of Low Frequency Perturbations](https://arxiv.org/abs/1903.00073) | arxiv 2019 |  |
 | [The Limitations of Adversarial Training and the Blind-Spot Attack](https://openreview.net/forum?id=HylTBhA5tQ)| ICLR 2019 |  |
 | [Transferable Adversarial Perturbations](http://openaccess.thecvf.com/content_ECCV_2018/html/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.html) | ECCV 2018 |  |
-| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 
